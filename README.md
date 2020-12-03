@@ -1,6 +1,6 @@
 # Go! Trail Ranger
 ## Project Structure
-## 1. Unity  
+## 1. unity-environment  
 Links to the the game specific data and assets in Unity Game Engine.  
 ## 2. Reinforcement Learning  
 **AIBot.py -** Entry point where the AI bot learns the game using rewards and finally plays the game.  
